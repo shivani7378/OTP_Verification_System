@@ -16,7 +16,7 @@ This Python script implements an OTP (One-Time Password) verification simulation
 
 2. Clone this repository to your local machine:
 
-git clone https: https://github.com/shivani7378/OTP-Verification-Simulation/
+git clone https: https://github.com/shivani7378/OTP_Verification_System
 
 
 3. Install the required Python dependencies using pip:
